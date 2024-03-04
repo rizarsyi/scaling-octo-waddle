@@ -1,1 +1,2 @@
-# scaling-octo-waddle
+### agama-sms
+ OTP authentication with SMS
